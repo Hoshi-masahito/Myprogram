@@ -7,7 +7,7 @@ txtファイルを利用して家計簿の追加・削除の機能を追加<br>
 授業内で実際にGithubを使用し、開発の一連の流れを踏みながら作成<br>
 
 # PBL
-Raspberryと連携したWebページアプリ作成を行った<br>
+Raspberry piと連携したWebページアプリ作成を行った<br>
 時間内に完成させられず<br>
 
 # internship
